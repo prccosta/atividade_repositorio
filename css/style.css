@@ -1,0 +1,120 @@
+/* Modify */
+.modal-tema .modal-header {
+	padding: 2rem;
+}
+
+.modal-tema .modal-header i {
+	margin: 0px auto;
+	width: 40px;
+}
+
+/* Style */
+.modal-tema.modal-primary .modal-header {
+	background-color: #2980b9;
+}
+
+.modal-tema.modal-warning .modal-header {
+	background-color: #f39c12;
+}
+
+.modal-tema.modal-info .modal-header {
+	background-color: #19B5FE;
+}
+
+.modal-tema.modal-danger .modal-header {
+	background-color: #c0392b;
+}
+
+.modal-tema.modal-success .modal-header {
+	background-color: #27ae60;
+}
+
+.modal-tema .modal-header .modal-title,
+.modal-tema .modal-header .close {
+	color: #fff;
+}
+
+.modal-tema.modal-primary .modal-body h2 {
+	color: #2980b9;
+}
+
+.modal-tema.modal-warning .modal-body h2 {
+	color: #f39c12;
+}
+
+.modal-tema.modal-info .modal-body h2 {
+	color: #19B5FE;
+}
+
+.modal-tema.modal-danger .modal-body h2 {
+	color: #c0392b;
+}
+
+.modal-tema.modal-success .modal-body h2 {
+	color: #27ae60;
+}
+
+.modal-tema .modal-body .description {
+	color: #7f8c8d;
+	font-size: 1.2rem;
+}
+
+.modal-tema .modal-footer button {
+	margin: 0px auto;
+	width: 200px;
+}
+
+.modal-tema.modal-primary .modal-footer .btn-primary {
+	border-width: 2px;
+	background-color: transparent;
+	border-color: #2980b9;
+	color: #2980b9;
+}
+.modal-tema.modal-primary .modal-footer .btn-primary:hover {
+	background-color: #2980b9;
+	color: #fff;
+}
+
+.modal-tema.modal-warning .modal-footer .btn-primary {
+	border-width: 2px;
+	background-color: transparent;
+	border-color: #f39c12;
+	color: #f39c12;
+}
+.modal-tema.modal-warning .modal-footer .btn-primary:hover {
+	background-color: #f39c12;
+	color: #fff;
+}
+
+.modal-tema.modal-info .modal-footer .btn-primary {
+	border-width: 2px;
+	background-color: transparent;
+	border-color: #19B5FE;
+	color: #19B5FE;
+}
+.modal-tema.modal-info .modal-footer .btn-primary:hover {
+	background-color: #19B5FE;
+	color: #fff;
+}
+
+.modal-tema.modal-danger .modal-footer .btn-primary {
+	border-width: 2px;
+	background-color: transparent;
+	border-color: #c0392b;
+	color: #c0392b;
+}
+.modal-tema.modal-danger .modal-footer .btn-primary:hover {
+	background-color: #c0392b;
+	color: #fff;
+}
+
+.modal-tema.modal-success .modal-footer .btn-primary {
+	border-width: 2px;
+	background-color: transparent;
+	border-color: #27ae60;
+	color: #27ae60;
+}
+.modal-tema.modal-success .modal-footer .btn-primary:hover {
+	background-color: #2ecc71;
+	color: #fff;
+}

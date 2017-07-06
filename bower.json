@@ -1,0 +1,24 @@
+{
+  "name": "certificacao-bootstrap",
+  "description": "Projeto Certificacao Bootstrap",
+  "main": "index.js",
+  "authors": [
+    "Priscila Costa"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "curso",
+    "bootstrap"
+  ],
+  "homepage": "http://www.blushweb.rio",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "v4.0.0-alpha.6"
+  }
+}
